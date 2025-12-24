@@ -1,0 +1,22 @@
+.venv/
+venv/
+env/
+ENV/
+
+# Bytecode and caches
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor directories
+.vscode/
+
+# Python build/dist
+build/
+dist/
+*.egg-info/
+
+# pip
+pip-wheel-metadata/
